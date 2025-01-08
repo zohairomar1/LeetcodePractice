@@ -3,7 +3,7 @@ public class OrderAgnosticBinarySearch {
     public static void main(String[] args) {
 
         int[] array = {95,45,32,14,9,-2,-95};
-        int[] array2 = {-123,-55,-2,2,3,5,6,9,55,8333,95888};
+        int[] array2 = {-123,-123,-2,2,3,5,6,9,55,8333,95888};
         System.out.println("descendingOrderBinarySearch(array,-2) = " + descendingOrderBinarySearch(array,-2));
 
 
